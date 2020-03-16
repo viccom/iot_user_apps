@@ -1,0 +1,7 @@
+paho-mqtt
+
+influxdb
+
+requests
+
+pickledb

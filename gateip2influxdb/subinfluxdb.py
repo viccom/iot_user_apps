@@ -29,7 +29,7 @@ class Client:
 	def write_data(self, data_list):
 		points = []
 		s = requests.Session()
-		s.auth = ("api", "Pa88word")
+		s.auth = ("api", "freeioe")
 		for data in data_list:
 			value = data['value']
 			if value:
